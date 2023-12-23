@@ -8,4 +8,8 @@ det svenska systemet av [Elsos](https://eloso.se/coc-sverige/).
 
 Målet med denna sida är att alla som vill ska kunna bidra med sina kampanjer.
 Kampanjer skrivs i [Markdown](https://www.markdownguide.org/) och distribueras
-på [GitHub]() med hjälp av [MkDocs](https://www.mkdocs.org/).
+på [GitHub](https://github.com/JosefUtbult/Terror-i-Sverige) med hjälp av
+[MkDocs](https://www.mkdocs.org/).
+
+Vill du veta mer om hur du kan bidra till projektet kan du gå till
+[Bidra](Bidra.md). Annars ligger de scenarion som finns under Scenarier.
