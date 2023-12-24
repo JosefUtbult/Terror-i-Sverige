@@ -1,11 +1,10 @@
 # Add label to changes to any file in the docs folder
-SiteFile:
-  name: Site File
+Site File:
 - changed-files:
   - any-glob-to-any-file: 'docs/**'
 
 # Add 'source' label to any change to src files within the source dir EXCEPT for the docs sub-folder
-Source:
+Source File:
 - all:
   - changed-files:
     - any-glob-to-any-file: '**'
@@ -13,9 +12,9 @@ Source:
 
 Test:
 - changed-files:
-  - any-glob-to-any-file: '*'
+  - any-glob-to-any-file: '**'
 
 # Add 'AnyChange' label to any changes within the entire repository
-AnyChange:
+Any Change:
 - changed-files:
   - any-glob-to-any-file: '**'
