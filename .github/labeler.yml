@@ -13,7 +13,7 @@ Source File:
 Test:
 - changed-files:
   - any-glob-to-any-file: '**'
-  if: [[ 1 == 1 ]]
+  if: [[ 1 == 2 ]]
 
 # Add 'AnyChange' label to any changes within the entire repository
 Any Change:
