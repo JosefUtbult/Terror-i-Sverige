@@ -18,6 +18,9 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     # Test building the site in strict mode
+    - name: Get changed files
+      id: changed-files
+      uses: tj-actions/changed-files@v41
     - name: Check changed file authors
       env:
         ALL_CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
