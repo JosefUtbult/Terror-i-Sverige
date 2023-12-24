@@ -224,7 +224,7 @@ följande.
 ```
 Rit: Bestia tenebrarum, proles Sub Niggurath, tu Krampus
 
-I nödfall: Te bestiam compesce, Sancte Nicolae"
+I nödfall: Te bestiam compesce, Sancte Nicolae
 ```
 
 Riten är vad som yttras för att frammana Krampus.
