@@ -48,7 +48,7 @@ Villan har två våningar och liknar i storlek de flesta byggnader i trakten. De
 har en entré på framsidan och en dörr in till köket på baksidan. Ljus strömmar
 ut ur alla fönster utom två på övervåningen.
 
-![Fors Hus](En Julsaga/Fors-Hus.png)
+![Fors Hus](img/Fors-Hus.png)
 
 Familjen Fors bor i denna villa. Föräldrarna [Tova](#tova-fors) och
 [Herbert](#herbert-fors), samt deras två barn, Greta och Albert. Tova sitter i
@@ -111,7 +111,7 @@ kappa finns en liten flaska _Opland akvavit_. Det finns även en
 
 ### Kammaren
 
-![Kammaren](En Julsaga/Kammaren.png)
+![Kammaren](img/Kammaren.png)
 
 > Ni kommer in i en stor kammare som nästan liknar en opera. Ni befinner er
 > uppe på en estrad och kan blicka ner på det stora golvet på våningen under. I
