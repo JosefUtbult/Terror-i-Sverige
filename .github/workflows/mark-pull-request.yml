@@ -7,7 +7,7 @@ on:
       - 'main'
 
 jobs:
-  add_label:
+  CheckUser:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
