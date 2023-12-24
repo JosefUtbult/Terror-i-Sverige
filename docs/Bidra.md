@@ -336,6 +336,8 @@ från din branch tillbaks till main branchen.
 Öppna GitHub Desktop. Den ser nu ut såhär. Tryck på `Current branch
 exempelprojekt` och välj istället `main`.
 
+![Test](../venv/bin/Activate.ps1)
+
 ![GitHub Desktop back to main](img/Bidra/github-desktop-back-to-main.png)
 
 Nu kommer den ändringen du gjort i branchen `exempelprojekt` att tas bort och du
