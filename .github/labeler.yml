@@ -1,5 +1,6 @@
 # Add label to changes to any file in the docs folder
 SiteFile:
+  name: Site File
 - changed-files:
   - any-glob-to-any-file: 'docs/**'
 
