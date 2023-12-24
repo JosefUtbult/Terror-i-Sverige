@@ -2,7 +2,7 @@
 författare: Josef Utbult
 github: JosefUtbult
 ---
-
+ 
 Denna Julsaga utspelar sig i mellandagarna i Göteborg. Utredarna spelar som
 "leverantörer", vilket i själva verket är något närmare kriminella och
 smugglare. Under denna vinternatt har Utredarna fått i uppgift att "leverera",
