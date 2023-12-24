@@ -27,9 +27,12 @@ jobs:
     - name: Test MkDocs
       run: |
         mkdocs build --strict --clean --site-dir test_build
+        rm -rf test_build
     - name: Build MkDocs
       run: |
         mkdocs build --site-dir site
+    - name: Upload Pages artifact
+      uses: actions/upload-pages-artifact@v2
   deploy:
     # Add a dependency to the build job
     needs: build
