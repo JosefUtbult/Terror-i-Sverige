@@ -1,18 +1,18 @@
-name: Mark Pull Request
+name: Add Label
 
 on:
-  pull_request:
+  issues:
     types: opened
 
 jobs:
-  CheckUser:
+  add_label:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: checkout
+        uses: actions/checkout@v2
 
-      - name: Add label
+      - name: add label
         uses: actions-ecosystem/action-add-labels@v1
         if: ${{ startsWith(github.event.comment.body, '/add-labels') }}
         with:
-          labels: Not-Owned
+          labels: bug
