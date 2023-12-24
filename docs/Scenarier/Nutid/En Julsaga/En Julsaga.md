@@ -1,34 +1,14 @@
-# En Julsaga
+---
+författare: Josef Utbult
+github: JosefUtbult
+---
 
 Denna Julsaga utspelar sig i mellandagarna i Göteborg. Utredarna spelar som
-"leverantörer", vilket i själva verket är något närmare kriminella och 
-smugglare. Under denna vinter natt har Utredarna fått i uppgift att "leverera",
-eller kidnappa, någon vid namn _Albert Fors_. Det utredarna inte vet är att 
-Albert är en liten pojke som varit stygg. Och detta är just vad som krävs för att
+"leverantörer", vilket i själva verket är något närmare kriminella och
+smugglare. Under denna vinternatt har Utredarna fått i uppgift att "leverera",
+eller kidnappa, någon vid namn Albert Fors. Det utredarna inte vet är att Albert
+är en liten pojke som varit stygg. Och detta är just vad som krävs för att
 frammana den ökände Krampus...
-
-## Scener
-
-> Atlas Leverans är en firma vars specialisering är leveranser av
-> juridiskt tveksam natur. Företaget får generellt uppgifter i form av
-> smugglade, diskreta leveranser och förvärvande av mycket specifika varor.
->
-> Ni har sett mycket underligt med åren. Smugglade vapen, stentavlor med
-> underliga inskriptioner införskaffade diskret från museer, samt inburade
-> varelser som ni inte kunnat identifiera. Ni har dock hållit huvudet lågt och
-> inte ställt frågor; och det är vad som fört er vidare i branschen. Så länge
-> varorna transporteras till dess destination, får ni betalt och arbetet är
-> utfört.
->
-> Tidigare i veckan fick er chef, Simon Jangenfors, en uppgift till er under
-> ett möte med en man ”med tysk brytning”. Det är ett underligt jobb, inte ett
-> sånt som ni brukar ta. Men det betalar oerhört bra och ska enligt er
-> kontaktperson vara ett enkelt jobb.
->
-> Er uppgift är att, kvällen den 24 december, införskaffa en viss _Albert Fors_
-> från en adress ni redan fått specificerat. Han skall omhändertagas diskret,
-> och sedan föras till en industrilokal utanför stan. På väg dit ska ni plocka
-> upp Simon, som har adressen för er destination.
 
 ### En vinternatt
 
