@@ -12,8 +12,7 @@ Source File:
 
 Test:
 - changed-files:
-  - any-glob-to-any-file: '**'
-  if: [[ 1 == 2 ]]
+  - any-glob-to-any-file: 'docs/**'
 
 # Add 'AnyChange' label to any changes within the entire repository
 Any Change:
