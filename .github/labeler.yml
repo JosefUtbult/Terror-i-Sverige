@@ -10,11 +10,11 @@ Source File:
     - any-glob-to-any-file: '**'
     - all-globs-to-all-files: '!docs/**'
 
-Test:
-- changed-files:
-  - any-glob-to-any-file: 'docs/**'
+#Test:
+#- changed-files:
+  #- any-glob-to-any-file: 'docs/**'
 
 # Add 'AnyChange' label to any changes within the entire repository
-Any Change:
-- changed-files:
-  - any-glob-to-any-file: '**'
+#Any Change:
+#- changed-files:
+  #- any-glob-to-any-file: '**'
