@@ -3,17 +3,15 @@ name: Mark Pull Request
 on:
   pull_request:
     types: opened
-    branches:
-      - 'main'
 
 jobs:
   CheckUser:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: actions/checkout@v2
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: add label
+      - name: Add label
         uses: actions-ecosystem/action-add-labels@v1
         if: ${{ startsWith(github.event.comment.body, '/add-labels') }}
         with:
