@@ -1,6 +1,8 @@
 site_name: Terror i Sverige
 theme:
   name: material
+  custom_dir: overrides
+  language: sv
   palette: 
     # Palette toggle for light mode
     - scheme: default
