@@ -1,0 +1,19 @@
+name: Mark Pull Request
+
+on:
+  pull_request:
+    types: opened
+    branches:
+      - 'main'
+
+jobs:
+  add_label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: add label
+        uses: actions-ecosystem/action-add-labels@v1
+        with:
+          labels: Not-Owned
