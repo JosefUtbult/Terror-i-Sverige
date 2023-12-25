@@ -12,6 +12,7 @@
 - Förflyttning: 7
 
 Strid:
+
 - Handgemäng 10% (5/2), skada 1T4
 - Ducka 10% (7/3)
 
@@ -29,6 +30,7 @@ Strid:
 - Förflyttning: 8
 
 Strid:
+
 - Handgemäng 10% (5/2), skada 1T4
 - Ducka 15% (7/3)
 
@@ -46,6 +48,7 @@ Strid:
 - Förflyttning: 7
 
 Strid:
+
 - Handgemäng 40% (20/8), skada 1T4
 - Pistol 50% (25/10), skada 1T8
 - Ducka 20% (10/4)
@@ -67,6 +70,7 @@ Språk (Tyska) 50%
 - Förflyttning: 6
 
 Strid:
+
 - Handgemäng 40% (20/8), skada 1T4
 - Pistol 50% (25/10), skada 1T8
 - Ducka 20% (20/4)
@@ -87,8 +91,9 @@ Lyssna 30%, Okultism 20%, Cthulhumyten 5%, Språk (Svenska) 30%
 - Förflyttning: 9
 
 Strid:
+
 - Attacker per runda: 2
 - Strid (Klor, bett) 45% (22/9), skada 1T6 + SB
 - Ducka: 35%
-- Sinnesbelastning: 0/1T10
+- Sinnesbelastning: 1T4/1T10
 
