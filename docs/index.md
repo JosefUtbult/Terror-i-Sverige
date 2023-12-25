@@ -13,4 +13,4 @@ på [GitHub](https://github.com/JosefUtbult/Terror-i-Sverige) med hjälp av
 
 Vill du veta mer om hur du kan bidra till projektet kan du gå till
 [Bidra](Bidra.md). Annars ligger de scenarion som finns under Scenarier.
- 
+
