@@ -52,11 +52,12 @@ ut ur alla fönster utom två på övervåningen.
 
 ![Fors Hus](img/Fors-Hus.png)
 
-Familjen Fors bor i denna villa. Föräldrarna [Tova](#tova-fors) och
-[Herbert](#herbert-fors), samt deras två barn, Greta och Albert. Tova sitter i
-vardagsrummet och virkar. H1erbert kommer efter ett tag ut på verandan för att
-röka sin pipa.Greta och Albert ligger och sover i varsitt rum på övervåningen.
-Herbert och Greta har båda brunt hår, medans Tova och Albert är blonda.
+Familjen Fors bor i denna villa. Föräldrarna [Tova](../Karaktärer#tova-fors) och
+[Herbert](../Karaktärer#herbert-fors), samt deras två barn, Greta och Albert. Tova
+sitter i vardagsrummet och virkar. H1erbert kommer efter ett tag ut på verandan
+för att röka sin pipa.Greta och Albert ligger och sover i varsitt rum på
+övervåningen. Herbert och Greta har båda brunt hår, medans Tova och Albert är
+blonda.
 
 När utredarna kommer upp på övervåningen sker följande.
 > När ni kommer in i det släckta rummet ser ni ett hav av leksaker. Golvet är
@@ -74,10 +75,10 @@ till föräldrarna säkert.
 
 ### Vid industriområdet
 
-> Simon guidar er ut till ett industriområde utanför Luleå. Ni kommer snart
-> till en industrilokal, en nedsläckt byggnad med en hög mur i tegel runtom.
-> Utanför står en herre i vit rock och röker. "Han är det" säger Simon, och
-> kliver ur bilen. "[Herr Ruutki](#herr-ruutki)". Mannen går emot Simon och
+> Simon guidar er ut till ett industriområde utanför Luleå. Ni kommer snart till
+> en industrilokal, en nedsläckt byggnad med en hög mur i tegel runtom. Utanför
+> står en herre i vit rock och röker. "Han är det" säger Simon, och kliver ur
+> bilen. "[Herr Ruutki](../Karaktärer#herr-ruutki)". Mannen går emot Simon och
 > skakar hans hand. "Välkomna" säger han.
 
 Skulle fallet vara nu att någon av utredarna försöker stjäla något från
@@ -87,11 +88,11 @@ _Opland akvavit_.
 Ruutli ber utredarna ta med Albert och leder dem in i lokalen. De leds in i en
 mörk korridor med ett antal dörrar på vardera sida. Låt en av dem slå ett slag
 för finna dolda ting. Slår det ett normalt lyckat slag noterar att en
-[vakt](#vakt) bakom dem låser dörren de kommit in igenom
+[vakt](../Karaktärer#vakt) bakom dem låser dörren de kommit in igenom.
 
 Sällskapet kommer fram till en man klädd som en insatsoperand. Han har rustning
-med hjälm och ett visir som täcker hans mun. [Ruutki](#herr-ruutki) ber
-utredarna lämna ifrån sig Albert till mannen, som leder honom in igenom en
+med hjälm och ett visir som täcker hans mun. [Ruutki](../Karaktärer#herr-ruutki)
+ber utredarna lämna ifrån sig Albert till mannen, som leder honom in igenom en
 dörr.
 
 Ruutki leder sedan vidare sällskapet till ännu en dörr. "Då är det dags att
@@ -101,7 +102,8 @@ sköta betalningen, inte sant?".
 > lyser upp ett skrivbord med en industriell laptop på. I rummet finns även en
 > hurts och en tom bokhylla. 
 > 
-> I vid dörren står även två [vakter](#vakt) positionerade ved vardera sida
+> I vid dörren står även två [vakter](../Karaktärer#vakt) positionerade ved vardera
+> sida
 
 Ruutki hänger av sig sin kappa och kommer börja fifla med laptopen. Efter ett
 tag ber han utredarna vänta lite och han rör sig ut ur rummet. När dörren
@@ -109,7 +111,7 @@ stängs höjer plötsligt vakterna sina vapen och skriker "Upp med händerna!"
 
 Utredarna kan ta sig ut ur rummet och ta sig in i den stora kammaren. I Ruutkis
 kappa finns en liten flaska _Opland akvavit_. Det finns även en
-[anteckningsbok](#anteckningsboken) i hurtsen där besvärjelsen står. 
+[anteckningsbok](../Material#anteckningsboken) i hurtsen där besvärjelsen står. 
 
 ### Kammaren
 
@@ -188,14 +190,14 @@ Låt utredarna flika in under tiden och säga om de vill göra något.
 > Framför er börjar den brinnande mannen att vrida sig. Siluetten av honom
 > börjar ryckigt att växa medans ni hör hur dess ben sakta knäcks. Något som nu
 > inte längre är en man står framför er. En hårig best på två ben skriker och
-> elden som omslöt denna slukas. [Varelsen](#krampus) har röda ögon, en lång
-> hängande tunga och hovar och horn av en get. Albert skriker av rädsla.
+> elden som omslöt denna slukas. [Varelsen](../Karaktärer#krampus) har röda ögon,
+> en lång hängande tunga och hovar och horn av en get. Albert skriker av rädsla.
 
 
 ## Flykten
-> [Varelsen](#krampus) störtar emot Ruutki som står stadigt kvar. Han flyr
-> inte, utan tilltalar besten. "En snaps åt min herre, för att visa välvilja
-> och blidka raseri". Besten verkar stanna upp. 
+> [Varelsen](../Karaktärer#krampus) störtar emot Ruutki som står stadigt kvar. Han
+> flyr inte, utan tilltalar besten. "En snaps åt min herre, för att visa
+> välvilja och blidka raseri". Besten verkar stanna upp. 
 
 Om utredarna stulit snaps av Ruutki, försöker han plocka fram en flaska ur en
 ficka. Annars ber han snarare vakten att ge honom flaskan. Har de stulit
@@ -211,127 +213,7 @@ skjuta emot varelsen, som rör sig kvickt från en till en och hugger dem med
 kraftiga klor.
 
 En utredare kan få slå för psykologi. Med ett normalt lyckat slag kommer denne
-ihåg att Simon alltid bär en [pistol](#simons-pistol) i byxlinningen.
+ihåg att Simon alltid bär en [pistol](../Material#simons-pistol) i byxlinningen.
 
 Om utredarna tar sig ut, står deras bil kvar. När de kör iväg kan de höra ett
 mäktigt vrål från den byggnad som nu står i lågor...
-
-## Material
-
-### Anteckningsboken
-
-Får utredarna tag på anteckningsboken Ruutki hade på sin person, hittar de
-följande. 
-
-```
-Rit: Bestia tenebrarum, proles Sub Niggurath, tu Krampus
-
-I nödfall: Te bestiam compesce, Sancte Nicolae
-```
-
-Riten är vad som yttras för att frammana Krampus.
-
-Om _I nödfall_ besvärjelsen läggs börjar besten att skrika. Den flammar up, och
-utredarna kan se tjocka kedjor snärja den och dra den ner i marken.
-
-### Simons Pistol
-
-Simon bär en _7.65mm (.32) Revolver_ i sin byxlinning. Den har följande egenskaper.
-
-| Vapen                 | Färdighet           | Skada | Räckvidd, grund | Eldhastighet | Magasin | Krångel (%) |
-|:----------------------|:--------------------|:------|:----------------|:-------------|:--------|:------------|
-| 7.65mm (.32) Revolver | Skjutvapen (Pistol) | 1T8   | 15 meter        | 1 (3)        | 6       | 100         |
-
-## Karaktärer
-
-### Herbert Fors
-
-| STY | FYS | STO | SMI | INT | KAR | VST | UTB |
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| 45  | 50  | 50  | 35  | 55  | 40  | 30  | 40  |
-
-- KP: 5
-- Skadebonus: 0
-- Kroppsbyggnad: 0
-- Förflyttning: 7
-
-Strid:
-- Handgemäng 10% (5/2), skada 1T4
-- Ducka 10% (7/3)
-
-**Färdigheter**: Finna dolda ting 30%, Bokföring 30%, Språk (Svenska) 25%
-
-### Tova Fors
-
-| STY | FYS | STO | SMI | INT | KAR | VST | UTB |
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| 35  | 55  | 40  | 55  | 60  | 45  | 30  | 30  |
-
-- KP: 4
-- Skadebonus: 0
-- Kroppsbyggnad: -1
-- Förflyttning: 8
-
-Strid:
-- Handgemäng 10% (5/2), skada 1T4
-- Ducka 15% (7/3)
-
-**Färdigheter**: Finna dolda ting 20%, Bibliotekskunskap 40%, Språk (Svenska) 45%
-
-### Herr Ruutki
-
-| STY | FYS | STO | SMI | INT | KAR | VST | UTB |
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| 60  | 60  | 50  | 45  | 70  | 60  | 110 | 75  |
-
-- KP: 10
-- Skadebonus: +1T4
-- Kroppsbyggnad: 0
-- Förflyttning: 7
-
-Strid:
-- Handgemäng 40% (20/8), skada 1T4
-- Pistol 50% (25/10), skada 1T8
-- Ducka 20% (10/4)
-
-**Färdigheter**: Finna dolda ting 30%, Hota 50%, 
-Lyssna 30%, Okultism 50%, Cthulhumyten 20%, Språk (Svenska) 20%,
-Språk (Tyska) 50%
-
-### Vakt
-
-| STY | FYS | STO | SMI | INT | KAR | VST | UTB |
-|-----|-----|-----|-----|-----|-----|-----|-----|
-| 70  | 70  | 60  | 40  | 40  | 40  | 80  | 50  |
-
-- KP: 10
-- Rustning: 1
-- Skadebonus: +1T4
-- Kroppsbyggnad: +1
-- Förflyttning: 6
-
-Strid:
-- Handgemäng 40% (20/8), skada 1T4
-- Pistol 50% (25/10), skada 1T8
-- Ducka 20% (20/4)
-
-**Färdigheter**: Finna dolda ting 30%, Hota 40%, 
-Lyssna 30%, Okultism 20%, Cthulhumyten 5%, Språk (Svenska) 30%
-
-### Krampus
-
-| STY | FYS | STO | SMI | INT | VST |
-|-----|-----|-----|-----|-----|-----|
-| 140 | 120 | 160 | 50  | 20  | 110 |
-
-- KP: 30
-- Rustning: 2
-- Skadebonus: +3T6
-- Kroppsbyggnad: +4
-- Förflyttning: 9
-
-Strid:
-- Attacker per runda: 2
-- Strid (Klor, bett) 45% (22/9), skada 1T6 + SB
-- Ducka: 35%
-- Sinnesbelastning: 0/1T10
