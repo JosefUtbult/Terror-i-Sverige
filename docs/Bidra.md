@@ -69,7 +69,7 @@ Gå till [GitHub Signup](https://github.com/signup)
 
 Det bör se ut såhär.
 
-![GitHub Signup](img/Bidra/github-signup.png)
+![GitHub Signup](assets/img/Bidra/github-signup.png)
 
 Skapa ett konto igenom att skriva in din mailaddress och ett lösenord. 
 
@@ -91,14 +91,14 @@ till en kopia som ligger på din profil.
 
 Om du går till URLn för Terror i Sverige repot på GitHub ser det ut såhär.
 
-![GitHub Root Project](img/Bidra/github-root-project.png)
+![GitHub Root Project](assets/img/Bidra/github-root-project.png)
 
 Notera att det här projektet ligger under användaren `JosefUtbult`. Det betyder
 att du inte kan göra några direkta ändringar till det här projektet. Men du kan
 göra en kopia på din profil igenom att trycka på `fork`. Då kommer du till en
 sida som ser ut såhär.
 
-![GitHub Create Fork](img/Bidra/github-create-fork.png)
+![GitHub Create Fork](assets/img/Bidra/github-create-fork.png)
 
 Du kan behålla namnet som det är, och lämna `Copy only the main branch` i-bockat.
 Forstätt igenom att trycka `Create fork`.
@@ -106,7 +106,7 @@ Forstätt igenom att trycka `Create fork`.
 Nu kommer du komma till en version av projektet som ser ut såhär. Notera att det
 här projektet nu ligger under användaren `terror-i-sverige-exempel`.
 
-![GitHub Forked Project](img/Bidra/github-forked-project.png)
+![GitHub Forked Project](assets/img/Bidra/github-forked-project.png)
 
 Du har nu lyckats göra en fork på projektet!
 
@@ -117,25 +117,25 @@ Nu kan du logga in på GitHub Desktop. Du kan ladda ner applikationen
 [här](https://desktop.github.com/). Ladda ner och kör installeraren. Sedan
 kommer du till en inloggning som ser ut såhär.
 
-![GitHub Desktop Login](img/Bidra/github-desktop-login.png)
+![GitHub Desktop Login](assets/img/Bidra/github-desktop-login.png)
 
 Där kan du välja att logga in på GitHub. När du klickar på `Sign in to GitHub`
 kommer du till en autentiseringssida i din webbläsare som ser ut såhär.
 
-![GitHub Desktop Authorize](img/Bidra/github-desktop-auth.png)
+![GitHub Desktop Authorize](assets/img/Bidra/github-desktop-auth.png)
 
 Godkänn med `Authorize desktop`. GitHub kommer sedan skicka tillbaks till GitHub
 Desktop.
 
 Nu kommer GitHub desktop be dig konfigurera Git. Det ser ut såhär.
 
-![GitHub Desktop Config Git](img/Bidra/github-desktop-config-git.png)
+![GitHub Desktop Config Git](assets/img/Bidra/github-desktop-config-git.png)
 
 Du kan välja `Use my GitHub account name and email address` och sedan `finish`.
 
 Nu kommer du till GitHub Desktops hemmskärm. Den ser ut såhär.
 
-![GitHub Desktop Home](img/Bidra/github-desktop-home.png)
+![GitHub Desktop Home](assets/img/Bidra/github-desktop-home.png)
 
 
 ### Steg 4 - Klona Terror i Sverige repot
@@ -146,11 +146,11 @@ användarnamn>/Terror-i-Sverige`. Det är versionen av projektet som ligger på 
 GitHub profil. Klicka på den och välj `clone <ditt
 användarnamn>/Terror-i-Sverige`. Då kommer du till en skärm som ser ut såhär.
 
-![GitHub Desktop Clone URL](img/Bidra/github-desktop-clone-url.png)
+![GitHub Desktop Clone URL](assets/img/Bidra/github-desktop-clone-url.png)
 
 Gå till fliken `GitHub.com`. Där bör det se ut ungefär såhär.
 
-![GitHub Desktop Clone GitHub](img/Bidra/github-desktop-clone-github.png)
+![GitHub Desktop Clone GitHub](assets/img/Bidra/github-desktop-clone-github.png)
 
 Där kan du återigen trycka på `<ditt användarnamn>/Terror-i-Sverige`. Du kan
 också välja vart projektet ska ligga på din dator igenom att sätta `Local path`.
@@ -163,11 +163,11 @@ du kommer vilja skicka in dina ändringar till förälderprojektet så småning 
 kan du välja `To contribute to the parent project` och fortsätta med `Continue`.
 
 ![GitHub Desktop contribute to
-parent](img/Bidra/github-desktop-contribute-to-parent.png)
+parent](assets/img/Bidra/github-desktop-contribute-to-parent.png)
 
 Nu kommer du komma direkt till din projektsida. Den bör se ut såhär.
 
-![GitHub Desktop project clean](img/Bidra/github-desktop-project-clean.png)
+![GitHub Desktop project clean](assets/img/Bidra/github-desktop-project-clean.png)
 
 Notera att det står `0 changed files`. Det är för att du inte gjort några
 ändringar i projektet ifrån hur det ser ut på GitHub. 
@@ -187,13 +187,13 @@ Du kan nu öppna din textredigerare, i det här fallet [Sublime
 Text](#textredigerare). Är det första gången du öppnar Sublime Text kommer det
 att se ut ungefär såhär.
 
-![Sublime Text clean](img/Bidra/sublime-text-clean.png)
+![Sublime Text clean](assets/img/Bidra/sublime-text-clean.png)
 
 Uppe i vänstra hörnet kan du välja `File > Open Folder...`. Där kan du välja din
 projektmapp `Documents\Rollspel\Terror-i-Sverige`. Nu kommer du få ett filträd
 på vänster sida av skärmen som ser ut såhär.
 
-![Sublime Text open folder](img/Bidra/sublime-text-open-folder.png)
+![Sublime Text open folder](assets/img/Bidra/sublime-text-open-folder.png)
 
 Nu vill du skapa en mapp för ditt scenario. Det här exemplet kommer utspela sig
 i nutid, och ska därför ligga i `docs\Scenarion\Nutid`. Gå dit i din
@@ -215,7 +215,7 @@ bli en Markdown fil.
 Du kan också lägga en bild i din `img` mapp. Högerklicka på den här bilden och
 spara den. Döp den till `shadow-man.png` och lägg den i `img` mappen.
 
-![Shadow Man](img/Bidra/shadow-man.png)
+![Shadow Man](assets/img/Bidra/shadow-man.png)
 
 
 ### Steg 6 - Skriv ditt scenario
@@ -230,7 +230,7 @@ Markdown > Default Font`. Där kan du välja att öka eller minska din fontstorl
 Så här ser exempelprojektet ut medans vi jobbar på det i Sublime Text och i
 Okular.
 
-![Sublime Okular](img/Bidra/sublime-okular.png)
+![Sublime Okular](assets/img/Bidra/sublime-okular.png)
 
 
 ### Steg 7 - Ladda upp dina ändringar på GitHub
@@ -238,7 +238,7 @@ Okular.
 Nu när du gjort dina ändringar kan du åter igen öppna GitHub Desktop. Det kommer
 nu se ut ungefär såhär.
 
-![GitHub Desktop project changed](img/Bidra/github-desktop-project-changed.png)
+![GitHub Desktop project changed](assets/img/Bidra/github-desktop-project-changed.png)
 
 Notera att det står att två filer har ändrats. Den första är `Exempel.md` och
 den andra är `shadow-man.png`. Du kan även se under `Exempel.md` exakt vilka
@@ -257,7 +257,7 @@ branch till `exempelprojekt` och välj `Create branch`.
 Du kommer få en ruta som ser ut såhär.
 
 ![GitHub Desktop project move
-change](img/Bidra/github-desktop-project-move-change.png)
+change](assets/img/Bidra/github-desktop-project-move-change.png)
 
 Välj `Bring my changes to exampleproject`. Fortsätt sedan med `Switch branch`.
 
@@ -271,7 +271,7 @@ Välj sedan `Commit to exempelprojekt`.
 
 Nu kommer du komma tillbaks till den här sidan.
 
-![GitHub Desktop push change](img/Bidra/github-desktop-push-changes.png)
+![GitHub Desktop push change](assets/img/Bidra/github-desktop-push-changes.png)
 
 Det betyder att alla lokala ändringar du gjort på din dator också har commitats
 till Git.
@@ -302,11 +302,11 @@ I projektet kan du välja vilken branch du ska kolla på. Tryck på `main` uppe 
 vänstra hörnet och välj `View all branches`. Där kan du välja din branch
 `exempelprojekt`.
 
-![GitHub Project forked changed](img/Bidra/github-project-forked-changed.png)
+![GitHub Project forked changed](assets/img/Bidra/github-project-forked-changed.png)
 
 Nu bör du se ditt projekt från den branchen.
 
-![GitHub Project forked branch](img/Bidra/github-project-forked-branch.png)
+![GitHub Project forked branch](assets/img/Bidra/github-project-forked-branch.png)
 
 Notera att det står att `This branch is 1 commit ahead of
 JosefUtbult/Terror-i-Sverige:main`. Den ändringen vill vi nu få in
@@ -314,7 +314,7 @@ huvudprojektet.
 
 Tryck på `Contribute` och välj `Open pull request`. Det kommer nu se ut såhär.
 
-![GitHub Pull request](img/Bidra/github-pull-request.png)
+![GitHub Pull request](assets/img/Bidra/github-pull-request.png)
 
 Notera att du har en pil som pekar från `terror-i-sverige-exempel` (ditt
 användarnamn) branch `exempelprojekt` till `JosefUtbult` branch `main`. Det
@@ -336,7 +336,7 @@ från din branch tillbaks till main branchen.
 Öppna GitHub Desktop. Den ser nu ut såhär. Tryck på `Current branch
 exempelprojekt` och välj istället `main`.
 
-![GitHub Desktop back to main](img/Bidra/github-desktop-back-to-main.png)
+![GitHub Desktop back to main](assets/img/Bidra/github-desktop-back-to-main.png)
 
 Nu kommer den ändringen du gjort i branchen `exempelprojekt` att tas bort och du
 är tillbaks i samma stadie som ditt projekt var innan du gjorde dina ändringar.

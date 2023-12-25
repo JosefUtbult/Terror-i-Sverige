@@ -1,0 +1,70 @@
+@font-face {
+	font-family: Lora;
+	src: url(../fonts/Lora/Lora-Regular.ttf);
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Lora;
+	src: url(../fonts/Lora/Lora-Italic.ttf);
+	font-style: italic;
+}
+
+@font-face {
+	font-family: GoudySans;
+	src: url(../fonts/GoudySans/GoudySans-Regular.ttf);
+}
+
+@font-face {
+	font-family: PlayfairDisplay;
+	src: url(../fonts/PlayfairDisplay/PlayfairDisplay-Regular.ttf);
+	font-style: normal
+}
+
+@font-face {
+	font-family: PlayfairDisplay;
+	src: url(../fonts/PlayfairDisplay/PlayfairDisplay-Italic.ttf);
+	font-style: italic
+}
+
+@font-face {
+	font-family: PlayfairDisplay;
+	src: url(../fonts/PlayfairDisplay/PlayfairDisplay-Bold.ttf);
+	font-style: normal;
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: PlayfairDisplay;
+	src: url(../fonts/PlayfairDisplay/PlayfairDisplay-BoldItalic.ttf);
+	font-style: italic;
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: CutiveMono;
+	src: url(../fonts/CutiveMono/CutiveMono-Regular.ttf);
+}
+
+h1,
+h2,
+.md-header__topic > span,
+.md-nav__title {
+	font-family: GoudySans;
+}
+
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+span,
+li,
+th {
+	font-family: PlayfairDisplay;
+}
+
+code {
+	font-family: CutiveMono;
+}

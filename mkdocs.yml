@@ -3,8 +3,8 @@ theme:
   name: material
   custom_dir: overrides
   language: sv
-  logo: img/Hem/icon.png
-  favicon: img/Hem/icon.png
+  logo: assets/img/Hem/icon.png
+  favicon: assets/img/Hem/icon.png
   palette: 
     # Palette toggle for light mode
     - scheme: default
@@ -21,4 +21,7 @@ theme:
         name: Byt till ljust tema
       primary: black
       accent: deep purple
+
+extra_css:
+  - assets/stylesheets/extra.css
 
