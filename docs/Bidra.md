@@ -1,3 +1,63 @@
+## Dokumentformat
+
+För att förenkla hanterandet av många scenarier uppskattas det om man försöker
+följa detta format.
+
+### Använd en egen mapp
+
+När du skapar ett scenario, lägg det i en egen mapp döpt till samma sak som ditt
+scenario. Där kan du sedan lägga till fler filer om du vill. Vill du använda
+bilder skapar du en mapp i din huvudmapp som heter `img`. Sedan kan du inkludera
+den i din Markdownfil såhär.
+
+```markdown
+![Min bild](img/min-bild.png)
+```
+
+Din mapp ska ligga under `Scenarier` och en kategori. Passar inte någon kategori
+till ditt scenario kan du skapa en ny mapp under `Scenarier` och lägga den där.
+Filträdet för ditt projekt bör sedan se ut såhär.
+
+```
+Scenarier
+└── Nutid
+    ├── Mitt scenarie
+    │   ├── Mitt scenarie.md
+    │   ├── img
+    │   │   ├── min-bild.png
+    │   ├── Fler filer.md
+```
+
+### Använd metadata
+
+För att man ska kunna se vem som skrivit ett scenario bör man lägga till
+metadata i alla sina Markdownfiler där man specificerar namn och GitHub konto.
+Det gör man igenom att lägga följande längst upp i sin fil.
+
+```markdown
+---
+författare: <Ditt namn eller alias>
+github: <Ditt GitHub konto>
+---
+```
+
+### Sätt inte en topprubrik
+
+Som sidan är uppbyggd just nu behöver man inte manuellt sätta en topprubrik. Den
+läggs till automatiskt utifrån vad filen heter, och formateras med ditt namn och
+GitHub konto.
+
+Vill du ändra vad som står i topprubriken och i sidans navigation kan du göra
+det igenom att lägga till en `title` tagg i metadatan. Metadatan ser då ut såhär.
+
+```markdown
+---
+title: <Titeln på ditt scenario>
+författare: <Ditt namn eller alias>
+github: <Ditt GitHub konto>
+---
+```
+
 ## Verktyg
 
 För att bidra till Terror i Sverige behöver du följande.
@@ -220,12 +280,80 @@ spara den. Döp den till `shadow-man.png` och lägg den i `img` mappen.
 
 ### Steg 6 - Skriv ditt scenario
 
-TODO
+Nu ska du få skriva ett scenario. I `Exempel.md` kan du lägga följande.
 
-Du kan även titta på hur din fil kommer att se ut igenom att öppna `Exempel.md`
-i [Okular](#okular). Okular kan bete sig lite konstigt med fontstorlekar ibland,
-men du kan öka den igenom att i Okular gå till `Settings > Configure Backend >
-Markdown > Default Font`. Där kan du välja att öka eller minska din fontstorlek.
+```markdown
+---
+författare: <Ditt namn eller alias>
+github: <Ditt GitHub konto>
+---
+
+Det här är ett exempelscenario. Efter den här paragrafen kommer en till rubrik.
+
+## Bakgrund
+
+Det här exempelscenariot utspelar sig i nutida Stockholm. Det här är
+bakgrundsinformation och en bild.
+
+![Shadow Man](img/shadow-man.png)
+
+```
+
+Vi går igenom alla steg. Dokumentet börjar med följande.
+
+```markdown
+---
+författare: <Ditt namn eller alias>
+github: <Ditt GitHub konto>
+---
+```
+
+Detta är _metadata_. Metadata är information om en fil som inte skrivs ut som
+text. Metadatan ligger i början på filen mellan två rader av `---`. Här
+specificerar du en `författare` tagg med ditt namn eller alias, och en `github`
+tagg med ditt GitHub konto.
+
+Efter metadatan kommer en första paragraf.
+
+```markdown
+Det här är ett exempelscenario. Efter den här paragrafen kommer en till rubrik.
+```
+
+Och efter det en rubrik.
+
+```markdown
+## Bakgrund
+```
+
+Rubriker i Markdown inleds med `#` och kan definieras som flera steg av
+underrubriker. Den här rubriken är två steg ner, så första lagret av
+underrubrik. Topprubriken kommer vara namnet på din fil, det vill säga
+`Exempel`. Den läggs till automatiskt.
+
+Efter det kommer en paragraf som nu ligger under rubriken `Bakgrund`. Den ser ut
+såhär.
+
+```markdown
+Det här exempelscenariot utspelar sig i nutida Stockholm. Det här är
+bakgrundsinformation och en bild.
+```
+
+Efter det kommer en bild.
+
+```markdown
+![Shadow Man](img/shadow-man.png)
+```
+
+Bilden läggs till igenom att du länkar den till dokumentet. En länk i Markdown
+består av en text som ska stå i länken mellan två hakparenteser, och en sökväg
+till det som länkas till mellan två vanliga parenteser. För att länken inte ska
+dyka upp som en rad text utan som en bild, lägger man ett utropstecken framför.
+
+När du vill titta på hur din fil kommer att se ut kan du göra det igenom att
+öppna `Exempel.md` i [Okular](#okular). Okular kan bete sig lite konstigt med
+fontstorlekar ibland, men du kan öka den igenom att i Okular gå till `Settings >
+Configure Backend > Markdown > Default Font`. Där kan du välja att öka eller
+minska din fontstorlek.
 
 Så här ser exempelprojektet ut medans vi jobbar på det i Sublime Text och i
 Okular.
