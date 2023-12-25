@@ -3,6 +3,8 @@ theme:
   name: material
   custom_dir: overrides
   language: sv
+  logo: img/Hem/icon.png
+  favicon: img/Hem/icon.png
   palette: 
     # Palette toggle for light mode
     - scheme: default

@@ -1,4 +1,6 @@
-# Välkommen till Terror i Sverige
+---
+title: Välkommen
+---
 
 Den här sidan är till för att dela rollspelskampanjer för 
 _Call of Cthulhu Sverige_. Alla kampanjer är Open-Source och gratis, och kan
