@@ -8,12 +8,34 @@ Denna Julsaga utspelar sig i mellandagarna i Göteborg. Utredarna spelar som
 smugglare. Under denna vinternatt har Utredarna fått i uppgift att "leverera",
 eller kidnappa, någon vid namn Albert Fors. Det utredarna inte vet är att Albert
 är en liten pojke som varit stygg. Och detta är just vad som krävs för att
-frammana den ökände Krampus...
+frammana den horribla Krampus...
+
 
 ### En vinternatt
 
+> Atlas Leverans är en firma vars specialisering är leveranser av
+> juridiskt tveksam natur. Företaget får generellt uppgifter i form av
+> smugglade, diskreta leveranser och förvärvande av mycket specifika varor.
+>
+> Ni har sett mycket underligt med åren. Smugglade vapen, stentavlor med
+> underliga inskriptioner införskaffade diskret från museer, samt inburade
+> varelser som ni inte kunnat identifiera. Ni har dock hållit huvudet lågt och
+> inte ställt frågor; och det är vad som fört er vidare i branschen. Så länge
+> varorna transporteras till dess destination, får ni betalt och arbetet är
+> utfört.
+>
+> Tidigare i veckan fick er chef, Simon Jangenfors, en uppgift till er under
+> ett möte med en man ”med tysk brytning”. Det är ett underligt jobb, inte ett
+> sånt som ni brukar ta. Men det betalar oerhört bra och ska enligt er
+> kontaktperson vara ett enkelt jobb.
+>
+> Er uppgift är att, kvällen den 25 december, införskaffa en viss _Albert Fors_
+> från en adress ni redan fått specificerat. Han skall omhändertagas diskret,
+> och sedan föras till en industrilokal utanför stan. På väg dit ska ni plocka
+> upp Simon, som har adressen för er destination.
+
 Utredarna sitter nu gömda utanför den villa som adressen tillhör. Klockan är
-20:00 den 24 december.
+20:00 den 25 december.
 
 Utredarnas uppgift är att plocka upp Albert och sedan köra tillbaks till den
 lagerlokal de arbetar ur. Där ska de ansluta sig till Simon, och sedan köra
@@ -268,7 +290,7 @@ Strid:
 - Förflyttning: 7
 
 Strid:
-- Handgemäng 40% (30/11), skada 1T4
+- Handgemäng 40% (20/8), skada 1T4
 - Pistol 50% (25/10), skada 1T8
 - Ducka 20% (10/4)
 
@@ -289,7 +311,7 @@ Språk (Tyska) 50%
 - Förflyttning: 6
 
 Strid:
-- Handgemäng 40% (30/11), skada 1T4
+- Handgemäng 40% (20/8), skada 1T4
 - Pistol 50% (25/10), skada 1T8
 - Ducka 20% (20/4)
 
