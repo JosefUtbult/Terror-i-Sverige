@@ -1,4 +1,9 @@
-# Karaktärer
+Följande spelarkaraktärer kan användas om man inte vill skapa egna. Inga av dem är kritiska för berättelsen.
+
+- [Karaktär 1](../Karaktärsblad/Karaktär 1.pdf)
+- [Karaktär 2](../Karaktärsblad/Karaktär 2.pdf)
+- [Karaktär 3](../Karaktärsblad/Karaktär 3.pdf)
+- [Karaktär 4](../Karaktärsblad/Karaktär 4.pdf)
 
 ## Herbert Fors
 
