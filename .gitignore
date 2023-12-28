@@ -1,4 +1,5 @@
 venv/
+site/
 
 # Ignore everything in the docs folder except for the specified file types
 docs/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*.*
@@ -41,3 +42,4 @@ docs/*.*
 !docs/**/*.svg
 !docs/**/*.jpg
 !docs/**/*.jpeg
+!docs/assets/**

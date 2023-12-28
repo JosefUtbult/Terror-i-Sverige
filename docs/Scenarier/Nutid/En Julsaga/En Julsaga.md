@@ -52,8 +52,8 @@ ut ur alla fönster utom två på övervåningen.
 
 ![Fors Hus](img/Fors-Hus.png)
 
-Familjen Fors bor i denna villa. Föräldrarna [Tova](../Karaktärer#tova-fors) och
-[Herbert](../Karaktärer#herbert-fors), samt deras två barn, Greta och Albert. Tova
+Familjen Fors bor i denna villa. Föräldrarna [Tova](Karaktärer.md#tova-fors) och
+[Herbert](Karaktärer.md#herbert-fors), samt deras två barn, Greta och Albert. Tova
 sitter i vardagsrummet och virkar. H1erbert kommer efter ett tag ut på verandan
 för att röka sin pipa.Greta och Albert ligger och sover i varsitt rum på
 övervåningen. Herbert och Greta har båda brunt hår, medans Tova och Albert är
@@ -78,7 +78,7 @@ till föräldrarna säkert.
 > Simon guidar er ut till ett industriområde utanför Luleå. Ni kommer snart till
 > en industrilokal, en nedsläckt byggnad med en hög mur i tegel runtom. Utanför
 > står en herre i vit rock och röker. "Han är det" säger Simon, och kliver ur
-> bilen. "[Herr Ruutki](../Karaktärer#herr-ruutki)". Mannen går emot Simon och
+> bilen. "[Herr Ruutki](Karaktärer.md#herr-ruutki)". Mannen går emot Simon och
 > skakar hans hand. "Välkomna" säger han.
 
 Skulle fallet vara nu att någon av utredarna försöker stjäla något från
@@ -88,10 +88,10 @@ _Opland akvavit_.
 Ruutli ber utredarna ta med Albert och leder dem in i lokalen. De leds in i en
 mörk korridor med ett antal dörrar på vardera sida. Låt en av dem slå ett slag
 för finna dolda ting. Slår det ett normalt lyckat slag noterar att en
-[vakt](../Karaktärer#vakt) bakom dem låser dörren de kommit in igenom.
+[vakt](Karaktärer.md#vakt) bakom dem låser dörren de kommit in igenom.
 
 Sällskapet kommer fram till en man klädd som en insatsoperand. Han har rustning
-med hjälm och ett visir som täcker hans mun. [Ruutki](../Karaktärer#herr-ruutki)
+med hjälm och ett visir som täcker hans mun. [Ruutki](Karaktärer.md#herr-ruutki)
 ber utredarna lämna ifrån sig Albert till mannen, som leder honom in igenom en
 dörr.
 
@@ -102,7 +102,7 @@ sköta betalningen, inte sant?".
 > lyser upp ett skrivbord med en industriell laptop på. I rummet finns även en
 > hurts och en tom bokhylla. 
 > 
-> I vid dörren står även två [vakter](../Karaktärer#vakt) positionerade ved vardera
+> I vid dörren står även två [vakter](Karaktärer.md#vakt) positionerade ved vardera
 > sida
 
 Ruutki hänger av sig sin kappa och kommer börja fifla med laptopen. Efter ett
@@ -111,7 +111,7 @@ stängs höjer plötsligt vakterna sina vapen och skriker "Upp med händerna!"
 
 Utredarna kan ta sig ut ur rummet och ta sig in i den stora kammaren. I Ruutkis
 kappa finns en liten flaska _Opland akvavit_. Det finns även en
-[anteckningsbok](../Material#anteckningsboken) i hurtsen där besvärjelsen står. 
+[anteckningsbok](Material.md#anteckningsboken) i hurtsen där besvärjelsen står. 
 
 ### Kammaren
 
@@ -190,12 +190,12 @@ Låt utredarna flika in under tiden och säga om de vill göra något.
 > Framför er börjar den brinnande mannen att vrida sig. Siluetten av honom
 > börjar ryckigt att växa medans ni hör hur dess ben sakta knäcks. Något som nu
 > inte längre är en man står framför er. En hårig best på två ben skriker och
-> elden som omslöt denna slukas. [Varelsen](../Karaktärer#krampus) har röda ögon,
+> elden som omslöt denna slukas. [Varelsen](Karaktärer.md#krampus) har röda ögon,
 > en lång hängande tunga och hovar och horn av en get. Albert skriker av rädsla.
 
 
 ## Flykten
-> [Varelsen](../Karaktärer#krampus) störtar emot Ruutki som står stadigt kvar. Han
+> [Varelsen](Karaktärer.md#krampus) störtar emot Ruutki som står stadigt kvar. Han
 > flyr inte, utan tilltalar besten. "En snaps åt min herre, för att visa
 > välvilja och blidka raseri". Besten verkar stanna upp. 
 
@@ -213,7 +213,7 @@ skjuta emot varelsen, som rör sig kvickt från en till en och hugger dem med
 kraftiga klor.
 
 En utredare kan få slå för psykologi. Med ett normalt lyckat slag kommer denne
-ihåg att Simon alltid bär en [pistol](../Material#simons-pistol) i byxlinningen.
+ihåg att Simon alltid bär en [pistol](Material.md#simons-pistol) i byxlinningen.
 
 Om utredarna tar sig ut, står deras bil kvar. När de kör iväg kan de höra ett
 mäktigt vrål från den byggnad som nu står i lågor...
